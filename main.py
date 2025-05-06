@@ -8,7 +8,7 @@ from qdrant_client import QdrantClient
 from llama_index.vector_stores.qdrant import QdrantVectorStore
 
 # ------------- 設定 -------------
-VAULT_DIR  = Path("~/repos/obsidian_note").expanduser()
+VAULT_DIR  = Path("/path/to/obsidian").expanduser()
 COLLECTION = "obsidian_rag"
 MODEL_ID   = "sentence-transformers/all-MiniLM-L6-v2"
 
