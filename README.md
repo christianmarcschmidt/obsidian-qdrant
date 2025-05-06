@@ -113,6 +113,3 @@ Claudeは`qdrant-find`ツールを使用して、関連するノートの内容�
 - qdrant-client
 - mcp-server-qdrant（Claude Desktopとの連携用）
 
-## ライセンス
-
-このプロジェクトは、Apache License 2.0のもとで提供されています。詳細はリポジトリ内のLICENSEファイルを参照してください。
